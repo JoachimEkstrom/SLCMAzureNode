@@ -1,10 +1,10 @@
 {
-    "name": "app-service-hello-world",
-    "description": "Simple Hello World Node.js sample for Azure App Service",
+    "name": "slcmazurenode",
+    "description": "Testing Azure and Github",
     "version": "0.0.1",
-    "private": true,
-    "license": "MIT",
-    "author": "Microsoft",
+    "private": false,
+    "license": "",
+    "author": "jocke",
     "scripts": {
         "start": "node index.js"
     }
